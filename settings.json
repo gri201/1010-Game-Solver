@@ -1,0 +1,8 @@
+{
+  "show_field": true,
+  "show_figures": true,
+  "show_game_over": true,
+  "default_figures_count": 3,
+  "latency": 0.5,
+  "mode": "SMART"
+}
